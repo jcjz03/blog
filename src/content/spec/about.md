@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+力图学到一点东西，但仍在跟生活努力对线，很挣扎的人
 
-::github{repo="saicaca/fuwari"}
+邮箱：3526448482@qq.com
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+GitHub：https://github.com/jcjz03
+
+QQ: 同上
