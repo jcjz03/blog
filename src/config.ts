@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
   subtitle: 'Demo Site',
   lang: 'zh_CN',         
   themeColor: {
-    hue: 250,         // 主题颜色的默认色调，范围从 0 到 360。例如，红色: 0，青绿色: 200，青色: 250，粉色: 345
+    hue: 345,         // 主题颜色的默认色调，范围从 0 到 360。例如，红色: 0，青绿色: 200，青色: 250，粉色: 345
     fixed: false,     // 隐藏访客的主题颜色选择器
   },
   banner: {
