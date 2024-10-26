@@ -47,9 +47,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // 相对于 /src 目录的路径。如果以 '/' 开头，则相对于 /public 目录
+  avatar: 'assets/images/demo-pic.png',  // 相对于 /src 目录的路径。如果以 '/' 开头，则相对于 /public 目录
   name: 'Y2p6',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  bio: '要么全力以赴，要么果断放弃',
   links: [
     {
       name: 'GitHub',
